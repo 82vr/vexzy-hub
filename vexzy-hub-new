@@ -41,7 +41,7 @@ end
 
 local PROXY_URL    = "https://vexzy-hub-proxy-production.up.railway.app"
 local OWNER_SECRET = "vexzy2025secret"
-local OWNER_KEY    = "vexzy_5c14a67a1120b49beb3a95ebe671751d"
+local OWNER_KEY    = ""
 
 
 local LoadingScreen = Instance.new("ScreenGui")
