@@ -40,7 +40,7 @@ local function setTheme(c)
 end
 
 local PROXY_URL    = "https://vexzy-hub-proxy-production.up.railway.app"
-local OWNER_SECRET = "vexzy2025secret"
+local OWNER_SECRET = ""
 local OWNER_KEY    = ""
 
 
